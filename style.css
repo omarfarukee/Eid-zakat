@@ -1,0 +1,94 @@
+body{
+    font-family: 'Kaushan Script', cursive;
+    margin: 0%;
+}
+.st-sec{
+    background-image: url(images/image_2020_07_20T07_24_36_045Z.png);
+    background-repeat: no-repeat;
+    height: 550px;
+    background-size: 100%;
+    border: 0.5px solid white;
+    margin-bottom: 100px;
+}
+.st-sec div{
+   background: linear-gradient(90deg, #1A1A1A -0.7%, rgba(26, 26, 26, 0) 100%);
+   height: 550px;
+   border: 0.5px solid white;
+}
+.st-sec h1{
+    font-size: 55px;
+    padding-left: 10%;
+    color:white;
+}
+.evil{
+    color: red;
+}
+.st-sec p{
+    padding-left: 10%;
+    color:white;
+}
+.st-sec a{
+    margin-left: 10%;
+}
+.link{
+    padding: 15px 40px ;
+    background-image: linear-gradient(red, black);
+    border-radius:10px ;
+    text-decoration: none;
+    
+    color:whitesmoke;
+}
+.about-jaka{
+    font-size: 40px;
+    text-align: center;
+    color: green;
+    margin-bottom: 20px;
+}
+.nd-sec{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    height:400px;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+.what{
+    width: 50% ;
+    margin-left: 20px;
+    padding-left: 5%;
+    align-items: center;
+    padding-top: 5%;
+}
+.what video{
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 8px 10px 10px gray;
+}
+.what img{
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 8px 10px 10px gray;
+}
+.rd-sec{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    margin-bottom: 100px;
+    height: 450px;
+}
+.fort-sec{
+    display: flex;
+    margin-left: 265px;
+}
+.four-width{
+    height: 140px;
+    width: 350px;
+    padding:20px 25px ;
+    margin: 20px 25px ;
+    background-color: papayawhip;
+    display: flex;
+    border-radius: 10px;
+    
+}
+.reward{
+    height: 60px;
+    width: 80px;
+}
