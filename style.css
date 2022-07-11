@@ -77,18 +77,77 @@ body{
 .fort-sec{
     display: flex;
     margin-left: 265px;
+    
+    margin-right: 265px;
 }
 .four-width{
     height: 140px;
     width: 350px;
     padding:20px 25px ;
     margin: 20px 25px ;
-    background-color: papayawhip;
+    background-color: rgb(235, 197, 136);
     display: flex;
     border-radius: 10px;
-    
+   
+    box-shadow: 8px 10px 8px gray;
 }
+
 .reward{
     height: 60px;
     width: 80px;
+    padding-top: 15px;
+
+}
+.fift-sec{
+    display: flex;
+    margin-right: 265px;
+    margin-left: 265px;
+    
+    margin-bottom: 100px;
+}
+.six-sec{
+    display: flex;
+    margin-left: 130px;
+    margin-bottom: 100px;
+}
+.six-sec img{
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+    box-shadow: 10px 8px 10px gray;
+}
+.six-sec div{
+    padding: 20px 10px;
+}
+.seven-sec{
+    display: flex;
+    margin-left: 130px;
+    margin-bottom: 100px;
+}
+.seven-sec img{
+    height:250px ;
+    width:100% ;
+    border-radius: 15px;
+}
+.seven-sec div{
+    border: 1px solid brown;
+    margin:10px 10px;
+    height:430px;
+    background-color: bisque;
+    border-radius: 15px;
+    box-shadow: 10px 12px 10px black;
+}
+.seven-sec h2, p{
+    padding-left: 20px;
+}
+.seven-sec a{
+    padding: 5px 20px;
+    margin-left: 20px;
+}
+.footer{
+    background-color: brown;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
 }
